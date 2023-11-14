@@ -27,5 +27,4 @@ const LandingInfo = () => {
     </div>
   );
 };
-console.log("FUCK");
 export default LandingInfo;
