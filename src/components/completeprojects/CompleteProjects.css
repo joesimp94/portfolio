@@ -1,0 +1,12 @@
+.completeProjectContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.completeProjectCard {
+  width: 325px;
+  height: 300px;
+  background-color: rgb(230, 236, 225);
+  margin: 5px;
+}
