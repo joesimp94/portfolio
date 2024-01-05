@@ -1,0 +1,12 @@
+.currentProjectContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.currentProjectCard {
+  width: 325px;
+  height: 400px;
+  background-color: rgb(230, 236, 225);
+  margin: 5px;
+}
